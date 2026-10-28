@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "mantle-atlas": {
+      "source": "AkshitTiwarii/mantle",
+      "sourceType": "github",
+      "skillPath": "mantle/skills/mantle-atlas/SKILL.md",
+      "computedHash": "0bdc5574caa94e1c59ff5d922174508d9aebe109cc087fcb53018c54a5a798b8"
+    }
+  }
+}
